@@ -3,8 +3,8 @@
 This analysis is to visualize how every campaign fared in relation to their launch dates and their funding goals. All the analysis is done on theater kickstarter campaigns as per client's request. Previously we gathered data on what type of kickstarter campaigns are most successful, how their success is tied to their funding goals and what time of the year is best to start a successful kickstarter. With all the data collected we managed to start a successful kickstarter. The following analysis show's how other campaings are proceeding. 
 ## 2. Analysis and Challenges
 ### Outcomes Based on Launch Date:
-<img src="resources/Theater_Outcomes_vs_Launch.png" width="300">
-<img src="resources/Outcomes_vs_Launch_2.png" width="300">
+<img src="resources/Theater_Outcomes_vs_Launch.png" width="400">
+<img src="resources/Outcomes_vs_Launch_2.png" width="150">
 For this dataset i started with pivot tables. Filtered so that only theater data was showing. After filtering the data created a line graph and added a header. Changed my line graph design to make it cleaner and be more easy to undestand. I had some challanges figuring out the right way to sort data into the pivot table. After March 4th thursdays class i figure out.
  
 ### Outcomes Based on Goals:
